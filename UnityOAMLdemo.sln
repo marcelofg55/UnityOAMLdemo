@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BA3A8AF3-5D2D-D133-9BB9-B39945D92809}") = "UnityOAMLdemo", "Assembly-CSharp.csproj", "{0A4ED594-BDCE-B9EB-21EA-01A7E08EA148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4ED594-BDCE-B9EB-21EA-01A7E08EA148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4ED594-BDCE-B9EB-21EA-01A7E08EA148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4ED594-BDCE-B9EB-21EA-01A7E08EA148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4ED594-BDCE-B9EB-21EA-01A7E08EA148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

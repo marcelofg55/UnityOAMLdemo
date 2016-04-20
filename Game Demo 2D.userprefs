@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Music.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HUD.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Music.cs" Line="38" Column="18" />
+      <File FileName="Assets/Scripts/NextTrackTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spikes.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DeathFloorTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Parallax.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
